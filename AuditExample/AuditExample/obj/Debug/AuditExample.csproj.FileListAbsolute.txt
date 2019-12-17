@@ -1,0 +1,15 @@
+C:\Users\ozhan.gulal\source\repos\AuditExample\AuditExample\bin\Debug\AuditExample.exe.config
+C:\Users\ozhan.gulal\source\repos\AuditExample\AuditExample\bin\Debug\AuditExample.exe
+C:\Users\ozhan.gulal\source\repos\AuditExample\AuditExample\bin\Debug\AuditExample.pdb
+C:\Users\ozhan.gulal\source\repos\AuditExample\AuditExample\bin\Debug\EntityFramework.dll
+C:\Users\ozhan.gulal\source\repos\AuditExample\AuditExample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ozhan.gulal\source\repos\AuditExample\AuditExample\bin\Debug\EntityFramework.xml
+C:\Users\ozhan.gulal\source\repos\AuditExample\AuditExample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ozhan.gulal\source\repos\AuditExample\AuditExample\obj\Debug\AuditExample.Form1.resources
+C:\Users\ozhan.gulal\source\repos\AuditExample\AuditExample\obj\Debug\AuditExample.Properties.Resources.resources
+C:\Users\ozhan.gulal\source\repos\AuditExample\AuditExample\obj\Debug\AuditExample.csproj.GenerateResource.cache
+C:\Users\ozhan.gulal\source\repos\AuditExample\AuditExample\obj\Debug\AuditExample.csproj.CoreCompileInputs.cache
+C:\Users\ozhan.gulal\source\repos\AuditExample\AuditExample\obj\Debug\AuditExample.csproj.CopyComplete
+C:\Users\ozhan.gulal\source\repos\AuditExample\AuditExample\obj\Debug\AuditExample.exe
+C:\Users\ozhan.gulal\source\repos\AuditExample\AuditExample\obj\Debug\AuditExample.pdb
+C:\Users\ozhan.gulal\source\repos\AuditExample\AuditExample\obj\Debug\AuditExample.csprojAssemblyReference.cache
